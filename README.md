@@ -16,4 +16,4 @@ There is an infinite number of objects in the outer space. Some of them are clos
 ### H null: 
 The mean estimated diameter of hazardous NEOs is equal to the mean estimated diameter of non-hazardous NEOs.
 ### H alt: 
-The mean estimated diameter of hazardous NEOs is different from the mean estimated diameter of non-hazardous NEOs.
+The mean estimated diameter of hazardous NEOs is different from the mean estimated diameter of non-hazardous NEOs.cou
